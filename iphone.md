@@ -9,4 +9,4 @@ La gamme iPhone est le produit phare d'Apple depuis 2007.
 - **iPhone X (2017)** — Face ID, écran OLED
 - **iPhone 15 (2023)** — puce A16, port USB-C
 
-[Retour à l'accueil](/)
+[Retour à l'accueil](/github-pages-test/)
