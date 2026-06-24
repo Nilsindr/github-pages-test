@@ -1,4 +1,4 @@
-**Navigation** — [Accueil](/) | [À propos](about) | [iPhone](iphone) | [Mac](mac)
+**Navigation** — [Accueil](/github-pages-test/) | [À propos](about) | [iPhone](iphone) | [Mac](mac)
 # github-pages-test
 # 🍎 Apple — Histoire & Produits
 
