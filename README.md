@@ -1,7 +1,6 @@
-**Navigation** — [Accueil](/) | [À propos](about)
+**Navigation** — [Accueil](/) | [À propos](about) | [iPhone](iphone) | [Mac](mac)
 # github-pages-test
 # 🍎 Apple — Histoire & Produits
-### Une page de test GitHub Pages
 
 ---
 
