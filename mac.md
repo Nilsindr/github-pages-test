@@ -9,4 +9,4 @@ La gamme Mac est la ligne d'ordinateurs d'Apple depuis 1984.
 - **MacBook Air (2008)** — le plus fin du monde à l'époque
 - **Mac M1 (2020)** — transition vers Apple Silicon
 
-[Retour à l'accueil](/)
+[Retour à l'accueil](/github-pages-test/)
