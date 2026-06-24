@@ -10,4 +10,4 @@ Nils Indermühle — Apprenti IT à l'EPFL Labo École.
 
 Test des fonctionnalités GitHub Pages dans le cadre du Labo École avec Mathieu Burnat.
 
-[Retour à l'accueil](/)
+[Retour à l'accueil](/github-pages-test/)
